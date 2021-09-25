@@ -8,5 +8,5 @@
 <End of Version>
 
 <version: 1.33>
-https://raw.githubusercontent.com/YaKiraYa/UpdaterForATW/main/Map024.json
+/data/Map024.json https://raw.githubusercontent.com/YaKiraYa/UpdaterForATW/main/Map024.json
 <End of Version>
