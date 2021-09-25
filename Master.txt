@@ -6,3 +6,4 @@
 <version: 1.32>
 /date/Map001.json https://raw.githubusercontent.com/YaKiraYa/UpdaterForATW/main/Map001.json
 <End of Version>
+
